@@ -7,5 +7,7 @@ public class Kaihan {
 
         System.out.println("Saila and Maman are hard working");
 
+        System.out.println("Mustafa is tyt too");
+
     }
 }

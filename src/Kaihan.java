@@ -4,5 +4,8 @@ public class Kaihan {
 
 
         System.out.println("Todya is Monday");
+
+        System.out.println("Saila and Maman are hard working");
+
     }
 }
